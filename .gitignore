@@ -1,0 +1,7 @@
+node_modules
+
+# OS X files
+.DS_Store
+
+# nodemon monitoring file
+.nodemon-find-ref
